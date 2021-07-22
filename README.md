@@ -13,6 +13,9 @@ A list of recent papers about GNN methods applied in NLP areas. Now, the reposit
 
 ## Taxonomy
 
+## Survey
+1. **Graph Neural Networks for Natural Language Processing: A Survey
+
 ### Fundamental NLP Tasks
 
 1. **Incorporating Syntactic and Semantic Information in Word Embeddings using Graph Convolutional Networks**. *Shikhar Vashishth, Manik Bhandari, Prateek Yadav, Piyush Rai, Chiranjib Bhattacharyya and Partha Talukdar*. ***ACL 2019*** [[pdf](https://arxiv.org/abs/1809.04283)] [[code](http://github.com/malllabiisc/WordGCN)]
