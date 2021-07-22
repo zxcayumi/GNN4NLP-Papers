@@ -14,7 +14,7 @@ A list of recent papers about GNN methods applied in NLP areas. Now, the reposit
 ## Taxonomy
 
 ## Survey
-1. **Graph Neural Networks for Natural Language Processing: A Survey
+1. **Graph Neural Networks for Natural Language Processing: A Survey**。[[pdf](https://arxiv.org/abs/2106.06090)]
 
 ### Fundamental NLP Tasks
 
